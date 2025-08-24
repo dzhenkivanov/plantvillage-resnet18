@@ -50,7 +50,7 @@ Inference API built using FastAPI.
 
 - `app/main.py`: FastAPI application and API endpoints.
 - `app/inference.py`: Model loading and prediction logic.
-- `app/plantvillage.pt`: Pre-trained ResNet18 model weights.
+- `app/plantvillage.pt`: ResNet18 model weights trained from scratch in Colab.
 - `app/labels.json`: Class labels for predictions.
 - `static/index.html`: Simple web frontend for image upload and prediction display.
 
